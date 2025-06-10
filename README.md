@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href=www.linkedin.com/in/mikaelly-amaro-0690b1327>
+  <a href=<a href="https://www.linkedin.com/in/mikaelly-amaro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:mikaxamaro@gmail.com" target="_blank">
