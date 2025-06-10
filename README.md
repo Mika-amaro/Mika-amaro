@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mikaelly-amaro-0690b1327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+  <a href="mailto:mikaxamaro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
@@ -20,7 +20,7 @@
 Sou uma profissional da área de Qualidade de Software (QA) que está trilhando um novo caminho em direção ao desenvolvimento de interfaces. Minha experiência em QA me proporcionou um olhar crítico e focado na **experiência do usuário**, habilidade que agora aplico na criação de sites e aplicações web.
 
 - 🔭 Atualmente: Atuando como **Analista de QA** e aprimorando minhas habilidades em Frontend.
-- 🌱 Estudando: Aprofundando em **JavaScript** e frameworks modernos como **React**.
+- 🌱 Estudando: Aprofundando em **JavaScript** 
 - 🎯 Objetivo: Conseguir minha primeira oportunidade como **Desenvolvedora Frontend Jr.** e ajudar a construir produtos digitais incríveis.
 - 💬 Me chame para conversar sobre: Testes de software, design, código limpo e gatos 🐈!
 
@@ -46,8 +46,8 @@ Estas são as tecnologias com as quais tenho trabalhado. A cor roxa representa m
 Aqui estão algumas das minhas estatísticas no GitHub. O tema roxo (`synthwave`) foi escolhido para combinar com o perfil!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mika-amaro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mika-amaro&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/line-purple.gif" width="100%">
