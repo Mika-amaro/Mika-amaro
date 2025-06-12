@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDx8ix7TCse/giphy.gif" width="100"/>
-  <h1 align="center">Olá 👋, meu nome é Mika Amaro</h1>
-  <h3 align="center">Analista de QA apaixonada por tecnologia e em transição de carreira para o Desenvolvimento Frontend.</h3>
+  <h1 align="center">Oie, sou a Mika Amaro</h1>
+  <h3 align="center">Analista de QA apaixonada por tecnologia e com plano de carreira, seguir para o Desenvolvimento Frontend.</h3>
 </div>
 
 <div align="center">
@@ -17,12 +17,11 @@
 
 ### 👩‍💻 Sobre Mim
 
-Sou uma profissional da área de Qualidade de Software (QA) que está trilhando um novo caminho em direção ao desenvolvimento de interfaces. Minha experiência em QA me proporcionou um olhar crítico e focado na **experiência do usuário**, habilidade que agora aplico na criação de sites e aplicações web.
+Sou uma profissional da área de Qualidade de Software (QA) que tem o objetivo de virar desenvolvedora Frontend. Minha experiência em QA me proporcionou um olhar crítico e focado na **experiência do usuário**, habilidade que agora aplico nos meus estudos na criação de sites e aplicações web.
 
 - 🔭 Atualmente: Atuando como **Analista de QA** e aprimorando minhas habilidades em Frontend.
 - 🌱 Estudando: Aprofundando em **JavaScript** 
 - 🎯 Objetivo: Conseguir minha primeira oportunidade como **Desenvolvedora Frontend Jr.** e ajudar a construir produtos digitais incríveis.
-- 💬 Me chame para conversar sobre: Testes de software, design, código limpo e gatos 🐈!
 
 ---
 
@@ -43,7 +42,7 @@ Estas são as tecnologias com as quais tenho trabalhado. A cor roxa representa m
 
 ### 📊 Minhas Estatísticas no GitHub
 
-Aqui estão algumas das minhas estatísticas no GitHub. O tema roxo (`synthwave`) foi escolhido para combinar com o perfil!
+Aqui estão algumas das minhas estatísticas no GitHub.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mika-amaro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
