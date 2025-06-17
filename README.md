@@ -21,7 +21,7 @@ Sou uma profissional da área de Qualidade de Software (QA) que tem o objetivo d
 
 - 🔭 Atualmente: Atuando como **Analista de QA** e aprimorando minhas habilidades em Frontend.
 - 🌱 Estudando: Aprofundando em **JavaScript** 
-- 🎯 Objetivo: Conseguir minha primeira oportunidade como **Desenvolvedora Frontend Jr.** e ajudar a construir produtos digitais incríveis.
+- 🎯 Objetivo: Conseguir minha primeira oportunidade como **Desenvolvedora Frontend** e ajudar a construir produtos digitais incríveis.
 
 ---
 
